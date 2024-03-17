@@ -5,3 +5,11 @@
 .dps{
   color: #e3362aa5;
 }
+.pass-icon-main{
+  position: relative;
+}
+#togglePassword{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
